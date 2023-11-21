@@ -12,7 +12,7 @@
 ### 🤓 About Me :
 I am a Computer Engineering student in Azerbaijan. Currently, I am:
 - 📚 Studying my 3rd year at [Azerbaijan State Oil and Industry University](https://asoiu.edu.az/);
-- 💻 Learning back-end development;
+- 💻 Learning data-science;
 - 🎯 Focusing on sharpening my skills and learning new things;
 
 ---
